@@ -1,2 +1,5 @@
 # CNN-Image-Recognitaion
-Image Recognition by CNN-Convolutional Neural Network 
+Image Recognition by using Tensorflow on CNN-Convolutional Neural Network 
+
+Tensorflow on CNN
+
